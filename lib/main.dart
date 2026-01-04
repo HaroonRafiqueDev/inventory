@@ -40,7 +40,7 @@ void main() {
 
 Future<void> _initialize() async {
   WidgetsFlutterBinding.ensureInitialized();
-  debugPrint('App Starting....');
+  debugPrint('App Starting.....');
 
   try {
     debugPrint('Initializing Hive...');
