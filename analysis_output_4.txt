@@ -1,0 +1,11 @@
+Analyzing inventory...                                          
+
+   info • The local variable '_screens' starts with an underscore • lib/features/dashboard/screens/dashboard_screen.dart:25:24 • no_leading_underscores_for_local_identifiers
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/inventory/screens/stock_adjustment_screen.dart:147:27 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/inventory/screens/stock_adjustment_screen.dart:148:27 • deprecated_member_use
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/inventory/screens/stock_adjustment_screen.dart:156:27 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/inventory/screens/stock_adjustment_screen.dart:157:27 • deprecated_member_use
+   info • 'dart:html' is deprecated and shouldn't be used. Use package:web and dart:js_interop instead • lib/features/reports/screens/reports_screen.dart:9:1 • deprecated_member_use
+   info • Don't use web-only libraries outside Flutter web plugins • lib/features/reports/screens/reports_screen.dart:9:1 • avoid_web_libraries_in_flutter
+
+7 issues found. (ran in 14.3s)
